@@ -1,0 +1,32 @@
+C:\Users\vprin\source\repos\prjWinCsRemax2013417\prjWinCsRemax2013417\bin\Debug\prjWinCsRemax2013417.exe.config
+C:\Users\vprin\source\repos\prjWinCsRemax2013417\prjWinCsRemax2013417\bin\Debug\prjWinCsRemax2013417.exe
+C:\Users\vprin\source\repos\prjWinCsRemax2013417\prjWinCsRemax2013417\bin\Debug\prjWinCsRemax2013417.pdb
+C:\Users\vprin\source\repos\prjWinCsRemax2013417\prjWinCsRemax2013417\obj\Debug\prjWinCsRemax2013417.csprojAssemblyReference.cache
+C:\Users\vprin\source\repos\prjWinCsRemax2013417\prjWinCsRemax2013417\obj\Debug\prjWinCsRemax2013417.FrmMain.resources
+C:\Users\vprin\source\repos\prjWinCsRemax2013417\prjWinCsRemax2013417\obj\Debug\prjWinCsRemax2013417.Properties.Resources.resources
+C:\Users\vprin\source\repos\prjWinCsRemax2013417\prjWinCsRemax2013417\obj\Debug\prjWinCsRemax2013417.csproj.GenerateResource.cache
+C:\Users\vprin\source\repos\prjWinCsRemax2013417\prjWinCsRemax2013417\obj\Debug\prjWinCsRemax2013417.csproj.CoreCompileInputs.cache
+C:\Users\vprin\source\repos\prjWinCsRemax2013417\prjWinCsRemax2013417\obj\Debug\prjWinCsRemax2013417.exe
+C:\Users\vprin\source\repos\prjWinCsRemax2013417\prjWinCsRemax2013417\obj\Debug\prjWinCsRemax2013417.pdb
+C:\Users\vprin\source\repos\prjWinCsRemax2013417\prjWinCsRemax2013417\obj\Debug\prjWinCsRemax2013417.frmAdmin.resources
+C:\Users\vprin\source\repos\prjWinCsRemax2013417\prjWinCsRemax2013417\obj\Debug\prjWinCsRemax2013417.frmAgent.resources
+C:\Users\vprin\source\repos\prjWinCsRemax2013417\prjWinCsRemax2013417\obj\Debug\prjWinCsRemax2013417.frmClient.resources
+C:\Users\vprin\source\repos\prjWinCsRemax2013417\prjWinCsRemax2013417\obj\Debug\prjWinCsRemax2013417.frmHouse.resources
+C:\Users\vprin\source\repos\prjWinCsRemax2013417\prjWinCsRemax2013417\obj\Debug\prjWinCsRemax2013417.frmLogin.resources
+C:\Users\vprin\source\repos\prjWinCsRemax2013417\prjWinCsRemax2013417\obj\Debug\prjWinCsRemax2013417.frmSearch.resources
+C:\Users\vprin\Desktop\Remax 2013417\prjWinCsRemax2013417\prjWinCsRemax2013417\bin\Debug\prjWinCsRemax2013417.exe.config
+C:\Users\vprin\Desktop\Remax 2013417\prjWinCsRemax2013417\prjWinCsRemax2013417\bin\Debug\prjWinCsRemax2013417.exe
+C:\Users\vprin\Desktop\Remax 2013417\prjWinCsRemax2013417\prjWinCsRemax2013417\bin\Debug\prjWinCsRemax2013417.pdb
+C:\Users\vprin\Desktop\Remax 2013417\prjWinCsRemax2013417\prjWinCsRemax2013417\obj\Debug\prjWinCsRemax2013417.csprojAssemblyReference.cache
+C:\Users\vprin\Desktop\Remax 2013417\prjWinCsRemax2013417\prjWinCsRemax2013417\obj\Debug\prjWinCsRemax2013417.frmAdmin.resources
+C:\Users\vprin\Desktop\Remax 2013417\prjWinCsRemax2013417\prjWinCsRemax2013417\obj\Debug\prjWinCsRemax2013417.frmAgent.resources
+C:\Users\vprin\Desktop\Remax 2013417\prjWinCsRemax2013417\prjWinCsRemax2013417\obj\Debug\prjWinCsRemax2013417.frmClient.resources
+C:\Users\vprin\Desktop\Remax 2013417\prjWinCsRemax2013417\prjWinCsRemax2013417\obj\Debug\prjWinCsRemax2013417.frmHouse.resources
+C:\Users\vprin\Desktop\Remax 2013417\prjWinCsRemax2013417\prjWinCsRemax2013417\obj\Debug\prjWinCsRemax2013417.frmLogin.resources
+C:\Users\vprin\Desktop\Remax 2013417\prjWinCsRemax2013417\prjWinCsRemax2013417\obj\Debug\prjWinCsRemax2013417.frmMain.resources
+C:\Users\vprin\Desktop\Remax 2013417\prjWinCsRemax2013417\prjWinCsRemax2013417\obj\Debug\prjWinCsRemax2013417.frmSearch.resources
+C:\Users\vprin\Desktop\Remax 2013417\prjWinCsRemax2013417\prjWinCsRemax2013417\obj\Debug\prjWinCsRemax2013417.Properties.Resources.resources
+C:\Users\vprin\Desktop\Remax 2013417\prjWinCsRemax2013417\prjWinCsRemax2013417\obj\Debug\prjWinCsRemax2013417.csproj.GenerateResource.cache
+C:\Users\vprin\Desktop\Remax 2013417\prjWinCsRemax2013417\prjWinCsRemax2013417\obj\Debug\prjWinCsRemax2013417.csproj.CoreCompileInputs.cache
+C:\Users\vprin\Desktop\Remax 2013417\prjWinCsRemax2013417\prjWinCsRemax2013417\obj\Debug\prjWinCsRemax2013417.exe
+C:\Users\vprin\Desktop\Remax 2013417\prjWinCsRemax2013417\prjWinCsRemax2013417\obj\Debug\prjWinCsRemax2013417.pdb
